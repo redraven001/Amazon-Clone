@@ -1,3 +1,4 @@
 # Amazon-Clone
-Just a clone of the Amazon.in website homepage I build to further practice and strength my knowledge of HTML and CSS
+Just a clone of the Amazon.in website homepage I build to further practice and strength my knowledge of HTML and CSS.
+<br>
 Author - Devendar Choudhary
